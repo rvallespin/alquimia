@@ -1,0 +1,21 @@
+{
+  "name": "alquimia",
+  "version": "0.0.1",
+  "authors": [
+    "Raul Vallespin"
+  ],
+  "description": "alquimia.io proto website",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
